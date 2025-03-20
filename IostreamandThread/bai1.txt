@@ -1,0 +1,3 @@
+Truong Vinh Truong Linh
+lop 24IT2Xin chào từ Thread 1!
+Hello from Thread 2!
